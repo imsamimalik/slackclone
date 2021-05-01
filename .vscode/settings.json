@@ -1,0 +1,13 @@
+{
+   "emmet.extensionsPath": [
+      ""
+   ],
+   "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+   },
+   "emmet.excludeLanguages": [
+
+      "markdown"
+   ],
+   "html.format.indentInnerHtml": true
+}
